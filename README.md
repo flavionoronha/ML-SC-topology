@@ -27,4 +27,4 @@ This repository can be cited using:
 ```
 
 ## Bibliography
-[1] Phys. Rev. B 100, 235102 (2019).
+[1] Eric Mascot et al., Phys. Rev. B 100, 235102 (2019).
